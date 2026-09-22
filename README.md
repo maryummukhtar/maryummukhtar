@@ -75,23 +75,6 @@ I'm currently focusing on:
 
 ---
 
-## 🚀 Projects
-
-I use projects as a way to transform what I learn into practical experience.
-
-### 🚌 Bus Reservation System
-A Python-based project designed to practice programming logic, functions, data structures, and user interaction.
-
-### 🛒 Online Shopping System
-A project focused on implementing shopping-related functionality while strengthening Python programming and problem-solving skills.
-
-### 🏨 Hotel Management System
-A management system designed to practice programming concepts through a real-world scenario.
-
-More projects and improvements will be added as I continue developing my skills.
-
----
-
 ## 🎯 My Goals
 
 - Become a strong and confident programmer
