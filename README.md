@@ -11,133 +11,34 @@
 
 ---
 
+<div align="center">
+
 ## 👩‍💻 About Me
 
-I'm a Computer Science student with a strong interest in programming,
-problem-solving, Machine Learning, and Artificial Intelligence.
-
-I enjoy learning new technologies, strengthening my programming
-fundamentals, and turning what I learn into practical knowledge.
-
-- 🎓 Computer Science Student
-- 🐍 Learning and practicing Python
-- ⚡ Learning C++ and Object-Oriented Programming
-- 🤖 Exploring Machine Learning & Artificial Intelligence
-- 📊 Interested in Data Science and Natural Language Processing
-- 💡 Passionate about coding and problem-solving
-- 🌱 Continuously improving my technical skills
-
----
-
-## 🧠 Currently Learning
-
-<div align="center">
-
-### Python • C++ • OOP • Machine Learning • Artificial Intelligence
-
-</div>
-
----
-
-## 🛠️ Languages & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,jupyter" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F1F1F&height=60&section=header&text=Computer%20Science%20Student&fontSize=24&fontColor=FFFFFF" width="80%"/>
 
 <br>
 
-<div align="center">
-
-**Python** • **C++** • **Object-Oriented Programming** • **Git & GitHub**  
-**NumPy** • **Pandas** • **Machine Learning** • **NLP**
-
-</div>
-
----
-
-## 📚 Areas of Interest
-
-<div align="center">
-
-🤖 **Artificial Intelligence** &nbsp;&nbsp;
-🧠 **Machine Learning** &nbsp;&nbsp;
-🐍 **Python Programming**
-
-💻 **Software Development** &nbsp;&nbsp;
-📊 **Data Science** &nbsp;&nbsp;
-🗣️ **Natural Language Processing**
+| 🎓 Education | 💻 Programming | 🤖 AI / ML |
+|:---:|:---:|:---:|
+| Computer Science | Python • C++ | Machine Learning |
+| Thal University Bhakkar | C++ OOP | Artificial Intelligence |
+| Student | Problem Solving | NLP |
 
 </div>
-
----
-
-## 🎯 My Goals
-
-- 🚀 Become a strong and confident programmer
-- 🧩 Improve my problem-solving and logical thinking skills
-- 🐍 Strengthen my Python programming skills
-- ⚡ Develop strong C++ and OOP concepts
-- 🤖 Build a deeper understanding of Machine Learning and AI
-- 💡 Create practical projects as I gain experience
-- 🌍 Explore real-world applications of Artificial Intelligence
-- 📈 Continuously grow as a Computer Science student
-
----
-
-## 🌱 My Learning Philosophy
-
 <div align="center">
 
-### **Learn → Practice → Build → Improve → Repeat 🚀**
+## 🛠️ Skills & Technologies
 
-</div>
-
-I believe that consistent practice and hands-on learning are
-the best ways to turn knowledge into real programming skills.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryummukhtar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryummukhtar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/maryummukhtar">
-<img src="https://img.shields.io/badge/GitHub-maryummukhtar-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Coding • Keep Growing 🚀**
+<img src="https://img.shields.io/badge/Python-1F1F1F?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-666666?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-1F1F1F?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-4A4A4A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-666666?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
