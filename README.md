@@ -14,15 +14,17 @@
 
 <div align="center">
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
+
+### Computer Science Student • Programmer • AI/ML Learner
 
 </div>
 
-<div align="center">
+<br>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🎓 Education
 
@@ -30,86 +32,89 @@
 
 Thal University Bhakkar
 
+I'm building my foundation in computer science with a strong focus on programming, problem-solving, and modern technologies.
+
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 💻 Passion
+### 💻 What I Enjoy
 
 **Programming & Coding**
 
-Problem Solving  
-Logical Thinking  
-Continuous Learning
+* Problem Solving
+* Logical Thinking
+* Learning New Technologies
+* Improving Programming Skills
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🤖 Interests
+### 🤖 Areas of Interest
 
-Artificial Intelligence  
-Machine Learning  
-Data Science  
-Natural Language Processing
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Natural Language Processing
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🌱 Currently Growing
 
-Python  
-C++  
-Object-Oriented Programming  
-AI & Machine Learning
+* Python
+* C++
+* Object-Oriented Programming
+* AI & Machine Learning
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
 ---
 
-<!-- ======================= INTRODUCTION ======================= -->
+<!-- ======================= PROFILE ======================= -->
 
 <div align="center">
 
-## 🌟 Who Am I?
+# 🌟 Profile
 
 </div>
 
 <p align="center">
-I'm a Computer Science student with a strong interest in programming,
+I'm a Computer Science student passionate about programming,
 problem-solving, Machine Learning, and Artificial Intelligence.
 </p>
 
 <p align="center">
-I enjoy learning new technologies, strengthening my programming
-fundamentals, and transforming what I learn into practical knowledge.
-My goal is to become a strong programmer and continuously grow my
-skills through learning and practice.
+I enjoy strengthening my programming fundamentals, exploring new
+technologies, and turning what I learn into practical knowledge.
+My goal is to become a strong programmer through consistent learning,
+practice, and improvement.
 </p>
+
+<br>
 
 ---
 
-<!-- ======================= SKILLS ======================= -->
+<!-- ======================= TECH STACK ======================= -->
 
 <div align="center">
 
-## 🛠️ Skills & Technologies
+# 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### Languages
 
 <img src="https://img.shields.io/badge/Python-1F1F1F?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<br><br>
-
-### 🧩 Object-Oriented Programming
+### Object-Oriented Programming
 
 <img src="https://img.shields.io/badge/Classes_%26_Objects-1F1F1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Encapsulation-333333?style=for-the-badge"/>
@@ -117,71 +122,98 @@ skills through learning and practice.
 <img src="https://img.shields.io/badge/Polymorphism-666666?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Abstraction-808080?style=for-the-badge"/>
 
-<br><br>
-
-### 📊 Python & Data Science
+### Data & Python Ecosystem
 
 <img src="https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-1F1F1F?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<br><br>
-
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-1F1F1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-333333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-4A4A4A?style=for-the-badge"/>
 
-<br><br>
-
-### 🔧 Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
----
-
-<!-- ======================= PYTHON ======================= -->
-
-<div align="center">
-
-## 🐍 Python Skills
-
-</div>
-
-<div align="center">
-
-| Fundamentals | Data Structures | Advanced Concepts |
-|:---:|:---:|:---:|
-| Variables | Lists | OOP |
-| Conditions | Tuples | Classes & Objects |
-| Loops | Dictionaries | Constructors |
-| Functions | Sets | Inheritance |
-| Input / Output | Strings | Polymorphism |
-
-</div>
+<br>
 
 ---
 
-<!-- ======================= AI / ML ======================= -->
+<!-- ======================= PYTHON JOURNEY ======================= -->
 
 <div align="center">
 
-## 🤖 AI & Machine Learning Journey
+# 🐍 Python Learning Journey
 
 </div>
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
+<th>Core Fundamentals</th>
+<th>Data Structures</th>
+<th>OOP & Advanced Concepts</th>
+</tr>
+
+<tr>
+<td align="center">
+
+Variables<br>
+Conditions<br>
+Loops<br>
+Functions<br>
+Input / Output
+
+</td>
+
+<td align="center">
+
+Lists<br>
+Tuples<br>
+Dictionaries<br>
+Sets<br>
+Strings
+
+</td>
+
+<td align="center">
+
+OOP<br>
+Classes & Objects<br>
+Constructors<br>
+Inheritance<br>
+Polymorphism
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ======================= AI ML JOURNEY ======================= -->
+
+<div align="center">
+
+# 🤖 AI & Machine Learning Journey
+
+</div>
+
+<table align="center">
+<tr>
+
 <td align="center" width="25%">
 
 ### 🧠 AI
 
-Artificial Intelligence  
-AI Fundamentals  
+Artificial Intelligence
+
+AI Fundamentals
+
 Problem Solving
 
 </td>
@@ -190,8 +222,10 @@ Problem Solving
 
 ### 📈 ML
 
-Machine Learning  
-Data Processing  
+Machine Learning
+
+Data Processing
+
 ML Fundamentals
 
 </td>
@@ -200,8 +234,10 @@ ML Fundamentals
 
 ### 🗣️ NLP
 
-Natural Language Processing  
-Text Processing  
+Natural Language Processing
+
+Text Processing
+
 Vectorization
 
 </td>
@@ -210,15 +246,18 @@ Vectorization
 
 ### 📊 Data
 
-NumPy  
-Pandas  
+NumPy
+
+Pandas
+
 Data Analysis
 
 </td>
+
 </tr>
 </table>
 
-</div>
+<br>
 
 ---
 
@@ -226,7 +265,7 @@ Data Analysis
 
 <div align="center">
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 <br>
 
@@ -245,59 +284,127 @@ Data Analysis
 
 </div>
 
+<br>
+
 ---
 
 <!-- ======================= GOALS ======================= -->
 
 <div align="center">
 
-## 🎯 My Goals
+# 🎯 Goals & Direction
 
 </div>
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center">🚀<br><b>Become a Strong Programmer</b></td>
-<td align="center">🧠<br><b>Improve Problem-Solving</b></td>
-<td align="center">🐍<br><b>Master Python</b></td>
+
+<td align="center" width="33%">
+
+### 🚀
+
+**Strong Programmer**
+
+Build a solid programming foundation and improve through consistent practice.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**Problem Solver**
+
+Develop stronger logical thinking and problem-solving skills.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍
+
+**Master Python**
+
+Continue improving Python from fundamentals to advanced concepts.
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">⚡<br><b>Strengthen C++ & OOP</b></td>
-<td align="center">🤖<br><b>Grow in AI & ML</b></td>
-<td align="center">🌱<br><b>Keep Learning</b></td>
+
+<td align="center" width="33%">
+
+### ⚡
+
+**C++ & OOP**
+
+Strengthen C++ programming and object-oriented programming concepts.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+**AI & ML**
+
+Continue exploring Artificial Intelligence and Machine Learning.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱
+
+**Keep Growing**
+
+Learn, practice, build, and improve continuously.
+
+</td>
+
 </tr>
 </table>
 
-</div>
+<br>
 
 ---
 
-<!-- ======================= LEARNING PHILOSOPHY ======================= -->
+<!-- ======================= PHILOSOPHY ======================= -->
 
 <div align="center">
 
-## 🌱 My Learning Philosophy
+# 🌱 Learning Philosophy
 
 <br>
 
-### **Learn → Practice → Build → Improve → Repeat 🚀**
+<img src="https://img.shields.io/badge/LEARN-1F1F1F?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/PRACTICE-333333?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/BUILD-4A4A4A?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/IMPROVE-666666?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/REPEAT-888888?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-> Consistency turns knowledge into skill.
+> **Consistency turns knowledge into skill.**
 
 </div>
 
+<br>
+
 ---
 
-<!-- ======================= GITHUB ======================= -->
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
 <div align="center">
 
-## 📊 GitHub Overview
+# 📊 GitHub Analytics
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=maryummukhtar&show_icons=true&theme=graywhite&hide_border=true&title_color=333333&icon_color=555555&text_color=444444" height="170"/>
 
@@ -305,27 +412,35 @@ Data Analysis
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=dark&hide_border=true&background=1F1F1F&ring=9E9E9E&fire=FFFFFF&currStreakLabel=D0D0D0&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E" />
-</p>
+<img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=default&hide_border=true" />
+
+</div>
+
+<br>
+
+---
 
 <!-- ======================= CONNECT ======================= -->
 
 <div align="center">
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
+
+<br>
 
 <a href="https://github.com/maryummukhtar">
 <img src="https://img.shields.io/badge/GitHub-maryummukhtar-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
