@@ -6,8 +6,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Maryam Fatima
-
 ### 🎓 Computer Science Student | 💻 Programmer | 🤖 AI/ML Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Currently+Learning+Python+%26+C%2B%2B;Exploring+Machine+Learning+%26+AI;Building+My+Programming+Skills;Always+Learning%2C+Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
