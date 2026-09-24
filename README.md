@@ -8,113 +8,103 @@
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ======================= ABOUT ME ======================= -->
+<!-- ======================= ABOUT ======================= -->
 
 <div align="center">
 
 # 👩‍💻 About Me
 
-### Computer Science Student • Programmer • AI/ML Learner
+### Computer Science Student | Programmer | AI/ML Learner
+
+<br>
+
+<img src="https://img.shields.io/badge/🎓%20Thal%20University%20Bhakkar-Computer%20Science-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Focus-Programming%20%26%20Problem%20Solving-4A4A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Interest-AI%20%26%20Machine%20Learning-666666?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎓 Education
-
-**Computer Science Student**
-
-Thal University Bhakkar
-
-I'm building my foundation in computer science with a strong focus on programming, problem-solving, and modern technologies.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 What I Enjoy
-
-**Programming & Coding**
-
-* Problem Solving
-* Logical Thinking
-* Learning New Technologies
-* Improving Programming Skills
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Natural Language Processing
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Currently Growing
-
-* Python
-* C++
-* Object-Oriented Programming
-* AI & Machine Learning
-
-</td>
-</tr>
-</table>
+> **I'm a Computer Science student with a strong interest in programming,
+> problem-solving, Machine Learning, and Artificial Intelligence.**
 
 <br>
 
----
+> **I enjoy learning new technologies, strengthening my programming fundamentals,
+> and turning what I learn into practical knowledge.**
 
-<!-- ======================= PROFILE ======================= -->
+<br>
 
-<div align="center">
-
-# 🌟 Profile
+> **My goal is to become a strong programmer through continuous learning,
+> practice, and improvement.**
 
 </div>
 
-<p align="center">
-I'm a Computer Science student passionate about programming,
-problem-solving, Machine Learning, and Artificial Intelligence.
-</p>
+<br>
 
-<p align="center">
-I enjoy strengthening my programming fundamentals, exploring new
-technologies, and turning what I learn into practical knowledge.
-My goal is to become a strong programmer through consistent learning,
-practice, and improvement.
-</p>
+---
+
+<!-- ======================= WHAT I WORK ON ======================= -->
+
+<div align="center">
+
+# ⚙️ What I'm Working On
+
+</div>
+
+<br>
+
+<div align="center">
+
+**01 — Programming**
+
+Building strong programming fundamentals and improving logical thinking.
+
+<br>
+
+**02 — Python**
+
+Learning Python from fundamentals to advanced concepts and OOP.
+
+<br>
+
+**03 — C++**
+
+Strengthening C++ programming and Object-Oriented Programming.
+
+<br>
+
+**04 — AI / ML**
+
+Exploring Artificial Intelligence, Machine Learning, NLP, and Data Science.
+
+</div>
 
 <br>
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+<!-- ======================= SKILLS ======================= -->
 
 <div align="center">
 
-# 🛠️ Tech Stack & Skills
+# 🧩 Skills
 
-### Languages
+<br>
+
+### PROGRAMMING
 
 <img src="https://img.shields.io/badge/Python-1F1F1F?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-### Object-Oriented Programming
+<br><br>
+
+### OBJECT-ORIENTED PROGRAMMING
 
 <img src="https://img.shields.io/badge/Classes_%26_Objects-1F1F1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Encapsulation-333333?style=for-the-badge"/>
@@ -122,18 +112,19 @@ practice, and improvement.
 <img src="https://img.shields.io/badge/Polymorphism-666666?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Abstraction-808080?style=for-the-badge"/>
 
-### Data & Python Ecosystem
+<br><br>
+
+### DATA & AI
 
 <img src="https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-1F1F1F?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-4A4A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-666666?style=for-the-badge"/>
 
-### AI & Machine Learning
+<br><br>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-1F1F1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4A4A4A?style=for-the-badge"/>
-
-### Development Tools
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
@@ -143,119 +134,57 @@ practice, and improvement.
 
 ---
 
-<!-- ======================= PYTHON JOURNEY ======================= -->
+<!-- ======================= PYTHON ======================= -->
 
 <div align="center">
 
-# 🐍 Python Learning Journey
+# 🐍 Python
+
+<br>
+
+<img src="https://img.shields.io/badge/01%20Fundamentals-1F1F1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02%20Data%20Structures-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03%20Functions-4A4A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04%20OOP-666666?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05%20Advanced%20Python-808080?style=for-the-badge"/>
+
+<br><br>
+
+`Variables` • `Conditions` • `Loops` • `Functions` • `Lists` • `Tuples`
+`Dictionaries` • `Sets` • `Strings` • `Classes` • `Objects`
+`Constructors` • `Inheritance` • `Polymorphism`
 
 </div>
-
-<table align="center">
-<tr>
-<th>Core Fundamentals</th>
-<th>Data Structures</th>
-<th>OOP & Advanced Concepts</th>
-</tr>
-
-<tr>
-<td align="center">
-
-Variables<br>
-Conditions<br>
-Loops<br>
-Functions<br>
-Input / Output
-
-</td>
-
-<td align="center">
-
-Lists<br>
-Tuples<br>
-Dictionaries<br>
-Sets<br>
-Strings
-
-</td>
-
-<td align="center">
-
-OOP<br>
-Classes & Objects<br>
-Constructors<br>
-Inheritance<br>
-Polymorphism
-
-</td>
-</tr>
-</table>
 
 <br>
 
 ---
 
-<!-- ======================= AI ML JOURNEY ======================= -->
+<!-- ======================= AI ML ======================= -->
 
 <div align="center">
 
-# 🤖 AI & Machine Learning Journey
+# 🤖 AI & Machine Learning
+
+<br>
+
+### Artificial Intelligence
+
+`AI Fundamentals` • `Problem Solving` • `Intelligent Systems`
+
+### Machine Learning
+
+`ML Fundamentals` • `Data Processing` • `Model Concepts`
+
+### Natural Language Processing
+
+`Text Processing` • `Vectorization` • `NLP Fundamentals`
+
+### Data Science
+
+`NumPy` • `Pandas` • `Data Analysis`
 
 </div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠 AI
-
-Artificial Intelligence
-
-AI Fundamentals
-
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈 ML
-
-Machine Learning
-
-Data Processing
-
-ML Fundamentals
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗣️ NLP
-
-Natural Language Processing
-
-Text Processing
-
-Vectorization
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊 Data
-
-NumPy
-
-Pandas
-
-Data Analysis
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
@@ -265,22 +194,29 @@ Data Analysis
 
 <div align="center">
 
-# 📚 Currently Learning
+# 📖 Currently Learning
 
 <br>
 
-<img src="https://img.shields.io/badge/Advanced_Python-1F1F1F?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-666666?style=for-the-badge"/>
+```text
+Advanced Python
+       ↓
+C++ & Object-Oriented Programming
+       ↓
+Data Structures & Algorithms
+       ↓
+Machine Learning
+       ↓
+Artificial Intelligence
+       ↓
+NLP & Data Science
+```
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Data_Science-777777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-888888?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-1F1F1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRACTICING-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IMPROVING-555555?style=for-the-badge"/>
 
 </div>
 
@@ -292,79 +228,39 @@ Data Analysis
 
 <div align="center">
 
-# 🎯 Goals & Direction
+# 🎯 Goals
+
+<br>
+
+**Become a Strong Programmer**
+
+`████████████████░░░░`
+
+<br><br>
+
+**Master Python & OOP**
+
+`███████████████░░░░░`
+
+<br><br>
+
+**Strengthen C++**
+
+`██████████████░░░░░░`
+
+<br><br>
+
+**Grow in AI & Machine Learning**
+
+`████████████░░░░░░░░`
+
+<br><br>
+
+**Improve Problem-Solving**
+
+`███████████████░░░░░`
 
 </div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🚀
-
-**Strong Programmer**
-
-Build a solid programming foundation and improve through consistent practice.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠
-
-**Problem Solver**
-
-Develop stronger logical thinking and problem-solving skills.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🐍
-
-**Master Python**
-
-Continue improving Python from fundamentals to advanced concepts.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ⚡
-
-**C++ & OOP**
-
-Strengthen C++ programming and object-oriented programming concepts.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖
-
-**AI & ML**
-
-Continue exploring Artificial Intelligence and Machine Learning.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱
-
-**Keep Growing**
-
-Learn, practice, build, and improve continuously.
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
@@ -374,23 +270,31 @@ Learn, practice, build, and improve continuously.
 
 <div align="center">
 
-# 🌱 Learning Philosophy
+# 🌱 My Learning Philosophy
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-1F1F1F?style=for-the-badge"/>
-➡️
-<img src="https://img.shields.io/badge/PRACTICE-333333?style=for-the-badge"/>
-➡️
-<img src="https://img.shields.io/badge/BUILD-4A4A4A?style=for-the-badge"/>
-➡️
-<img src="https://img.shields.io/badge/IMPROVE-666666?style=for-the-badge"/>
-➡️
-<img src="https://img.shields.io/badge/REPEAT-888888?style=for-the-badge"/>
+### LEARN
 
-<br><br>
+↓
 
-> **Consistency turns knowledge into skill.**
+### PRACTICE
+
+↓
+
+### BUILD
+
+↓
+
+### IMPROVE
+
+↓
+
+### REPEAT
+
+<br>
+
+**Consistency turns knowledge into skill.**
 
 </div>
 
@@ -398,11 +302,11 @@ Learn, practice, build, and improve continuously.
 
 ---
 
-<!-- ======================= GITHUB ANALYTICS ======================= -->
+<!-- ======================= GITHUB ======================= -->
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 📊 GitHub
 
 <br>
 
@@ -410,15 +314,11 @@ Learn, practice, build, and improve continuously.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryummukhtar&layout=compact&theme=graywhite&hide_border=true&title_color=333333&text_color=444444" height="170"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=maryummukhtar&hide_border=true&background=FFFFFF&ring=555555&fire=777777&currStreakNum=333333&sideNums=444444&currStreakLabel=555555&sideLabels=666666&dates=888888" />
 
 </div>
 
@@ -430,17 +330,19 @@ Learn, practice, build, and improve continuously.
 
 <div align="center">
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
 <br>
 
 <a href="https://github.com/maryummukhtar">
+
 <img src="https://img.shields.io/badge/GitHub-maryummukhtar-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
@@ -452,6 +354,7 @@ Learn, practice, build, and improve continuously.
 
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E9E9E,50:4A4A4A,100:151515&height=120&section=footer" width="100%"/>
+
