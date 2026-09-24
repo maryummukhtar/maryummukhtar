@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B3CC4,100:008CFF&height=220&section=header&text=Maryam%20Fatima&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Programmer%20%7C%20AI%2FML%20Learner&descAlignY=62&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Maryam Fatima
 
 ### 🎓 Computer Science Student | 💻 Programmer | 🤖 AI/ML Learner
