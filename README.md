@@ -309,13 +309,11 @@ Data Analysis
 
 <div align="center">
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=default&hide_border=true" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maryummukhtar&theme=dark&hide_border=true&background=1F1F1F&ring=9E9E9E&fire=FFFFFF&currStreakLabel=D0D0D0&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E" />
+</p>
 
 <!-- ======================= CONNECT ======================= -->
 
